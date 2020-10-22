@@ -4,6 +4,8 @@ This repository contains the scripts and datasets used in R workshops and projec
 through Brandeis Library Data Services.
 
 ## Materials
+- October 22: Data visualization with ggplot [[script](https://github.com/DeisData/r-projects/blob/master/DataVisualizationWithggplot.Rmd) / [dataset](https://drive.google.com/file/d/1qeba2wsgH_uEeRR_qUbi3cAOq5O4DJZG/view?usp=sharing) / [RStudio CheatSheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)]
+
 - Introduction to R and the Tidyverse [[script](https://github.com/DeisData/r-projects/blob/master/Intro-to-R-and-the-Tidyverse.R) / [dataset](https://github.com/DeisData/r-projects/blob/master/world_happiness.csv)]
 
 ## Installation Instructions
